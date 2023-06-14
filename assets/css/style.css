@@ -1,0 +1,68 @@
+.main{
+    margin-top: 100px;
+
+}
+.card-column{
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.form{
+    background-color: #198754;
+    color: white;
+    height: auto;
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 20px;
+    width: 100vh;
+    
+}
+form input{
+    width: 90%;
+}
+.form h3{
+    text-align: center;
+}
+.card-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    color: black;
+}
+.card-body{
+    color: #707070;
+}
+.location{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+.precio{
+    align-items: center;
+    display: flex;
+    column-gap: 10px;
+
+}
+.text-price{
+    color: #198754;
+    font-size: 20px;
+    font-weight: 900;
+}
+footer{
+    text-align: center;
+    height: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
